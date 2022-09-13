@@ -1,2 +1,0 @@
-# PlaywrightJava
-Playwright With Java
